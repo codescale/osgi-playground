@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fragment A of Plug-In A
+Bundle-SymbolicName: org.codescale.fragment.a
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: CodeScale.org
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Fragment-Host: org.codescale.bundle.a
+Export-Package: org.codescale.fragment.a,
+ org.codescale.bundle.internal.a
+Require-Bundle: org.codescale.bundle.b;bundle-version="1.0.0"

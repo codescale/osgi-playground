@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plug-In B
+Bundle-SymbolicName: org.codescale.bundle.b
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: CodeScale.org
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: org.codescale.bundle.b
